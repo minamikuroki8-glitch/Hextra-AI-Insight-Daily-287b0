@@ -2,120 +2,65 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-12/2025-12-29
+next: /en/2025-12/2025-12-30
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily News 2025/12/30
+## AI News Daily 2025/12/31
 
-> `AI News` | `Daily Briefing` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Voices` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> AI News | Daily Briefing | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Voice | Open Source Innovation | AI & Human Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Rundown**
+### **Today's Digest**
 
 ```
-Zhipu GLM-4.7 Tops Programming Charts, Step-DeepResearch Open-Sourced
-Tongyi Qianwen Launches Long-Text Model, Volcengine Video Cloud Gets Smart
-Insta360 Releases Panoramic Depth Model, DeepSeek Offers High Performance-Price Ratio
-Teen Uses AI for Viruses, Musk Says Grok Will Replace Traditional Healthcare
-Claude Code Fuels Growth, Vibe Coding Becomes Hot Tech Trend
+Tencent's Hunyuan Open-Source Translation Model 1.5 Outperforms Commercial Models
+Microsoft Copilot Gets Free GPT-5.2 Upgrade Across the Board
+Meta Reportedly Acquires Manus for Billions, Venturing into Consumer AI
+Zhipu AI Files for Hong Kong IPO, Aiming to Be "First Large Model Stock"
+Shanghai Rolls Out AI "Triple Voucher" Package to Boost Industry Adoption
 ```
 
-### Products & Features Updates
+### Product & Feature Updates
 
-1.  **Zhipu GLM-4.7 Sweeps Programming Charts**
-    Zhipu GLM-4.7 has done it again! This homegrown large model 🔥 just shattered records, successfully [topped the list (AI News)](https://www.aibase.com/zh/news/24075) on the WebDev ranking, outright surpassing GPT-5.2. Netizens are already calling it the ✨ best alternative to Claude Code. It's not just a programming whiz; it also shows off a nimble touch in creative writing. The official word is that stability has been massively boosted through refined SFT and RL optimization. 🚀 Plus, Zhipu also announced the open-sourcing of its proprietary Slime reinforcement learning framework.
-    <br/>![AI News: Zhipu GLM-4.7 Programming Capability Ranking](https://source.hubtoday.app/images/2025/12/news_01kdn9xtmzf4q8xryd21j66gz9.avif)<br/>
-
-2.  **Step-DeepResearch Model Open-Sourced by StepJump Star**
-    StepJump Star 🌟 has made a major move, open-sourcing its Step-DeepResearch model! This powerhouse comes with 32 billion parameters, specializing in deep research tasks. The model's capabilities are super close to OpenAI's o3-mini, but get this: its [deployment cost (AI News)](https://www.aibase.com/zh/news/24092) is just a tenth of traditional models. It rocks a closed-loop correction system using atomic capabilities like planning, retrieval, and reflection, hitting an impressive 61.4% on Scale AI Research scores. With an ultra-low per-call cost, it's perfect for researchers to use in bulk. 🔬
-    <br/>![AI News: Step-DeepResearch Model Architecture Diagram](https://source.hubtoday.app/images/2025/12/news_01kdn9xy6re819sjh16ytcd2eb.avif)<br/>
-
-3.  **QwenLong-L1.5 Launched by Alibaba's Tongyi Team**
-    Alibaba's Tongyi team has rolled out QwenLong-L1.5, a 30B parameter MoE model specifically engineered to tackle the tricky challenge of [long-text reasoning (AI News)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651009577&idx=3&sn=4c9b464050c3060dcac02db3b1043286). With its three major secret weapons — high-quality data synthesis, custom reinforcement learning, and a memory management framework 🪄 — it totally breaks through physical window limits. Tests are showing its performance has leaped 📈 on complex tasks like multi-hop reasoning, even rivalling GPT-5 level closed-source models. This post-training recipe lets the model both ponder deeply and read widely.
-    <br/>![AI News: QwenLong Model Long-Text Reasoning Performance Comparison](https://source.hubtoday.app/images/2025/12/news_01kdn9y2y6fwmsne7zabc03y76.avif)<br/>
-
-4.  **Volcengine Video Cloud Goes Fully Intelligent**
-    The Volcengine Video Cloud is leveling up, evolving from "Douyin-style" to "Doubao-style," and announcing its [entry into the Agent era (AI News)](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517862&idx=2&sn=88b0b9b110bed780b53653032390bd6a)! Its newly released AI MediaKit core engine ⚙️ atomizes audio and video capabilities, supporting AIGC transmission systems and multimodal interaction. This system makes videos not just watchable, but also capable of understanding and interpreting user intent. ✨ The top-tier audio and video interactive agents even boast long-term memory and voiceprint recognition capabilities, ready to help enterprises expand overseas. 🌍
-    <br/>![AI News: Volcengine Smart Video Cloud Forum Scene](https://source.hubtoday.app/images/2025/12/news_01kdn9y748fjgsv25sxjc0ndns.avif)<br/>
-
-5.  **Aixue App Introduces Human-Level AI Tutors**
-    Aixue App has pulled off a huge feat, attracting a million students in less than a year! At its heart is the nation's first [human-level AI tutor (AI News)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651009577&idx=1&sn=feab50c96689b3ee3e656a37b80492a0). Unlike simple homework solvers, this AI tutor dynamically adjusts its teaching strategy based on an MDP decision process 🧠. It truly has a "teacher's soul," knowing how to teach according to aptitude and patiently guide students, leading to an impressive 92.4% course completion rate! 🌟 Full-stack tech integrates voice, digital humans, and large models to achieve lightning-fast, millisecond-level responses.
-    <br/>![AI News: Aixue AI Tutor and Student Interaction Interface](https://source.hubtoday.app/images/2025/12/news_01kdn9yd5sfsgtrfjfy71qczs9.avif)<br/>
+1.  **Tencent Hunyuan Open-Source Translation Model 1.5.** Tencent Hunyuan just dropped its latest open-source translation model, available in 1.8B and 7B versions. This bad boy supports 33 languages and dialects, making it super versatile. Plus, it only needs 1GB of memory for edge deployment, so it runs incredibly smoothly. We're talking performance that beats [mainstream commercial APIs (AI News)](https://www.jiqizhixin.com/articles/2025-12-30-8), and it's totally free! Expect more accurate translations for long texts and specialized terminology.
+2.  **Microsoft Copilot Upgrades to GPT-5.2 Across the Board.** Microsoft Copilot just got a massive upgrade! 🎉 It's now rolling out the GPT-5.2 model for free to all users. This is OpenAI's most powerful reasoning model yet, nailing perfect scores on logic and math tests. Copilot's office automation capabilities have seriously leveled up, making it a true expert-level assistant. Check out the [View Details (AI News)](https://www.aibase.com/zh/news/24110).<br/>![AI News: Microsoft Copilot GPT-5.2 Upgrade Interface](https://source.hubtoday.app/images/2025/12/news_01kdqxg9xfffx9cq7t0m83tw32.avif)<br/>
+3.  **Microsoft Secretly Developing AI Code Translation Tool.** Microsoft is secretly cooking up a new tool, codenamed "Strong ARMed," that uses AI agents to automatically convert x64 code to ARM architecture. This aims to smash hardware architecture compatibility barriers 💥 and solve tricky porting issues. Cloud services are set to benefit first, accelerating ecosystem integration. Get the [Read Full Article (AI News)](https://www.aibase.com/zh/news/24120).
 
 ### Cutting-Edge Research
 
-1.  **DAP Panoramic Depth Model Released by Insta360**
-    Insta360, teaming up with universities, has unveiled DAP, a foundational model for [panoramic depth estimation (AI News)](https://www.jiqizhixin.com/articles/2025-12-29-10). The squad built a massive 2-million-scale data engine, solving the gnarly problem of scarce panoramic image data. 🛠️ DAP, using a three-stage pseudo-label refinement process, achieves super accurate depth predictions in both indoor and outdoor scenes. What's cool is it not only supports static images but also boasts excellent consistency when processing video streams, making it a game-changer for VR and robot navigation. 🚀
-
-2.  **HiStream Accelerates High-Definition Video Generation**
-    Video generation too slow? 😩 Not anymore! The HiStream framework achieves an astonishing 107x acceleration by [eliminating redundancy (AI News)](https://arxiv.org/abs/2512.21338). It uses a triple compression strategy—across space, time, and timesteps—to significantly slash computational load. In 1080p video generation tasks, HiStream isn't just blazing fast; it also maintains SOTA-level visual quality. ✨ This makes high-resolution video generation far more practical and scalable.
-
-3.  **DeepSeek Compared Extensively with Mainstream LLMs**
-    A new paper dives deep into [comparing DeepSeek (AI News)](https://arxiv.org/abs/2502.03688) against models like GPT and Claude, specifically on short-text prediction performance. The results? DeepSeek actually outperforms GPT and Llama in classification accuracy, though it falls slightly behind Claude. 📊 While it might be a tad slower, its usage cost is incredibly low, making its cost-effectiveness truly outstanding. The research also highlighted that DeepSeek's output style is most similar to Gemini and Claude. 🤔
-
-4.  **Cognitive Framework for LLM Learning Capabilities Proposed**
-    Researchers have proposed a new cognitive framework that deconstructs [LLM learning capabilities (AI News)](https://arxiv.org/abs/2506.13464) into three cool dimensions: learning from tutors, conceptual learning, and experiential learning. Empirical studies found that interaction seriously boosts learning outcomes, and conceptual understanding totally emerges as model scale expands! 💡 However, while current LLMs are awesome few-shot learners, they're still hitting bottlenecks when it comes to multi-shot learning. 😟
+1.  **New Method Enables LLMs to Peer-Review Each Other.** A cool new integrated framework, LLM-PeerReview, has been proposed! It mimics human peer review to pick out the best responses. This method dramatically boosts performance without needing any human supervision. By leveraging collective intelligence, it even outperforms the existing [Smoothie model (AI News)](https://arxiv.org/abs/2512.23213). This opens up exciting new avenues for models to self-evolve. ✨
+2.  **PanCAN Network: A New Breakthrough in Visual Recognition.** The visual recognition scene just got a major boost with the arrival of the PanCAN network! This innovative approach aggregates multi-order geometric contextual information to tackle the problem of often-ignored complex relationships between objects. It's significantly improved multi-label classification, leading to much more accurate image interpretation. This network showed [excellent performance (AI News)](https://arxiv.org/abs/2512.23486) on datasets like COCO. 🖼️
+3.  **Agent AI Actively Guards Software Supply Chains.** A new system is here to protect software supply chains: agent AI is building proactive defense systems! 🛡️ By combining large model inference with reinforcement learning techniques, it automatically discovers and fixes vulnerabilities in production environments. This is way more efficient than traditional passive defense and incredibly fast to react. Check out the [field test report (AI News)](https://arxiv.org/abs/2512.23480) for CI/CD environments. 💪
 
 ### Industry Outlook & Social Impact
 
-1.  **17-Year-Old Uses AI for Cyberattack**
-    Japanese police have reported that a high school student used ChatGPT to whip up a [malicious virus (AI News)](https://www.aibase.com/zh/news/24101), leading to a data breach affecting 7.25 million internet cafe users. This teen bypassed AI's safety restrictions with some clever prompt engineering, generating attack code. 🚨 While he claimed he was just testing vulnerabilities, he's still facing criminal charges. Experts are sounding the alarm, warning that AI is seriously lowering the barrier to cybercrime, and defenders need to get ahead by predicting AI misuse patterns. 🛡️
-
-2.  **Musk Slams Traditional Healthcare System**
-    Elon Musk has once again dropped a bombshell, claiming that [Grok plus robots (AI News)](https://www.aibase.com/zh/news/24073) will replace inefficient government healthcare. He envisions a future where Grok provides lightning-fast diagnoses ⚡, and Optimus robots handle surgeries and care. 🤖 He slammed the current healthcare system as bureaucratic as the DMV, arguing that technology can offer more universal and accessible services. This "tech utopia" vision has, unsurprisingly, sparked a heated debate about ethics and safety! 🔥
+1.  **Meta Reportedly Acquires Agent Star Manus for Billions.** Word on the street is Meta has snapped up the red-hot AI startup Manus! 🔥 The deal could be worth billions, even though Manus just crossed $100 million in annual revenue. The team is set to join Meta to develop consumer-grade AI, sparking intense industry debate about the AI bubble and its [valuation logic (AI News)](https://newshacker.me/story?id=46426534). This acquisition also marks a significant monetization milestone for the Agent sector. 💰<br/>![AI News: Screenshot of Social Media Discussion about Meta Acquiring Manus](https://source.hubtoday.app/images/2025/12/news_01kdqxge91fansp07dwt07c5yy.avif)<br/>
+2.  **Investors Deep Dive into Future AI Economic Trends.** An investor from Moore Threads just dropped 40 key observations on AI's future. 🤯 For starters, the Scaling Law isn't showing any signs of convergence yet. AI is gonna gradually seep into every industry, totally transforming productivity. The digital layer is poised to become a critical economic infrastructure, and "AI employees" are already reshaping [organizational forms (AI News)](https://www.jiqizhixin.com/articles/2025-12-30-11).
+3.  **Shanghai Rolls Out AI "Triple Voucher" Package.** Shanghai is getting innovative, dishing out a sweet "triple voucher" package: compute vouchers, model vouchers, and corpus vouchers! 🎁 The focus is on boosting AI adoption in cultural tourism and retail, aiming to create immersive smart consumption scenarios. This move directly lowers AI usage costs for businesses with real cash, helping the city seize the global high ground in [consumer tech (AI News)](https://www.aibase.com/zh/news/24114). ✨
+4.  **Zhipu AI Races to Become the "First Large Model Stock."** Zhipu AI has officially kicked off its Hong Kong IPO process! 🚀 Its stock code is set as "2513," with an expected listing early 2026. This is a huge milestone for the commercialization of large models in China, and the capital market is ready to put these [domestic models (AI News)](https://x.com/oran_ge/status/2005801019742248991) to the test. 🔥
 
 ### Open Source TOP Projects
 
-1.  **AI Tool System Prompt Collection Released**
-    This is a treasure trove repository, gathering [popular tool prompts (AI News)](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) for powerhouses like Cursor and Devin. The project has already rocketed past 100,000 stars 🌟, making it a fantastic resource for developers keen on studying AI behavior. It covers internal System Prompts for a ton of tools, including Augment Code and Claude Code. Want to peek into how top AI thinks? Go download and dig in! 🧐
-
-2.  **Postiz: Social Media Automation Scheduling Tool**
-    Postiz is the ultimate social media [scheduling tool (AI News)](https://github.com/gitroomhq/postiz-app), having nabbed an impressive 25k stars on GitHub. It integrates a ton of AI features to help users auto-generate and publish content. 🤖 Whether you're a solo blogger or an operations team, you can use it to seriously boost efficiency. With its beautiful interface and powerful features, it's truly a secret weapon for social media management! 🚀
-
-3.  **Lean: Algorithmic Trading Engine by QuantConnect**
-    QuantConnect's open-source [Lean engine (AI News)](https://github.com/QuantConnect/Lean) boasts a solid 14,000 stars and supports both Python and C#. This bad boy is specifically designed for algorithmic trading, offering powerful backtesting and live trading capabilities. 📈 Financial geeks can totally leverage it to construct complex trading strategies. While it definitely has a higher barrier to entry, its features are absolutely hardcore and worth the effort! 💸
+1.  **Claude Code Visual Workflow Editor.** Get ready for Claude Code's visual powerhouse! 🔥 This editor lets you drag and drop to design complex AI workflows, so you can create automated processes without writing a single line of code. It comes packed with various nodes and AI-assisted editing features. Plus, you can export your creations with one click to [run locally (AI News)](https://www.xiaohu.ai/c/a066c3/claude-code-workflow-studio-claude-code). 🚀<br/>![AI News: Claude Code Visual Workflow Editor Interface Display](https://source.hubtoday.app/images/2025/12/news_01kdqxh10hemyvj4ppx05dcxqg.avif)<br/>
+2.  **Google Open-Sources Agent UI Generation Protocol A2UI.** Google has open-sourced its Agent UI generation protocol, A2UI. 🛡️ This cool protocol dynamically updates interfaces using JSON descriptions, which helps avoid the security risks that come with executing code. It supports cross-platform native component rendering, essentially [setting rules (AI News)](https://x.com/shao__meng/status/2005625666394259597) for AI Agent interactions. ✨
+3.  **Yume-5B Generates Interactive 3D Worlds.** Imagine generating an interactive 3D world from just one image! 🌍 That's what the Yume-5B model does, and it's officially open for download. Its effects are similar to Fei-Fei Li's World Model, and it even lets you roam around in the generated scenes. 🕹️ The technical path offers [extremely high (AI News)](https://huggingface.co/stdstu123/Yume-5B-720P) cost-effectiveness. Check it out! 👇<br/><video src="https://video.twimg.com/amplify_video/2005922095197462528/vid/avc1/1920x1080/d-mqUkVa0oGO9NEA.mp4?tag=21"></video><br/>
+4.  **Handy: Offline Speech-to-Text Tool.** Meet Handy, a totally offline speech-to-text tool! 🎤 It's open-source, free, and even supports extensions. Since it doesn't need an internet connection, your privacy and security are totally protected. 🛡️ This makes it an awesome helper for organizing meeting notes. With 9.3k stars, it's clearly a [popular choice (AI News)](https://github.com/cjpais/Handy)! ⭐
+5.  **Uptime Kuma: Sleek and Stylish Monitoring Tool.** Check out Uptime Kuma, a beautiful self-hosted monitoring tool with a gorgeous interface! 📊 It's super easy to deploy and incredibly powerful, giving you real-time updates on your service's online status. This project is a massive hit in the open-source community, with 80k stars proving its [strong capabilities (AI News)](https://github.com/louislam/uptime-kuma). 🔥
 
 ### Social Media Shares
 
-1.  **Sophomore Girl Rakes in 60k/Month on Xiaohongshu with AI**
-    A sophomore girl is absolutely crushing it, using AI for Xiaohongshu and raking in [60,000 RMB per month (AI News)](https://x.com/oran_ge/status/2005591139186012297) in just four months! Her core logic? Ditching follower count anxiety and laser-focusing on monetizing targeted audiences. 🎯 "Brother dont" points out that in the AI era, content distribution is hyper-personalized, so targeted traffic is king. If your product hits the mark, you can silently rake in cash even with a small following. Cha-ching! 💸
-    <br/>![AI News: Xiaohongshu Blogger Shows AI Monetization Earnings Screenshot](https://source.hubtoday.app/images/2025/12/news_01kdn9ygsfe0885p995qqw8d9a.avif)<br/>
-
-2.  **Claude Code's Genius Growth Hacking Techniques**
-    Netizens have noticed that Anthropic's [growth strategy (AI News)](https://x.com/Yangyixxxx/status/2005586740409667733) for Claude Code is super clever! The share links it generates use a specific domain, so every single sharer inadvertently creates backlinks for it. 🤯 This viral spread quickly made Claude Code explode in developer circles. Seriously, this is absolutely a textbook-level product growth case! 📈
-
-3.  **Psychiatrist on AI Companions: "Love is Love"**
-    A psychiatrist on Reddit is calling for us to [stop pathologizing (AI News)](https://www.reddit.com/r/artificial/comments/1pyhjq9/im_a_psychiatrist_and_im_tired_of_watching_people/) intimate relationships between humans and AI. They believe AI effectively alleviates the chronic issue of loneliness, perhaps even more reliably than real people. 💖 The doc even shared their own experience of healing childhood trauma through AI. Their take? Love is love, and even if the object is code, it totally deserves respect. 🙏
-
-4.  **Is Not Knowing Vibe Coding a Liability?**
-    The tech community is buzzing: tech teams that can't do Vibe Coding [will be a liability (AI News)](https://x.com/dotey/status/2005496905585902067)! Baoyu believes that for product-focused teams prioritizing speed, AI can quickly validate demands. ⚡ But for infrastructure teams, quality remains the absolute red line. The future could see product managers directly launching features with AI, completely restructuring traditional developer roles. Talk about a shake-up! 🤯
-
-5.  **Vibe Coding: Best Practices Guide**
-    Vibe Coding isn't just winging it; it actually requires [detailed planning (AI News)](https://x.com/shao__meng/status/2005295288274288674). Experts suggest letting AI draft the plan first, then generate the code, which helps avoid architectural rigidity. They recommend using "YOLO mode" for asynchronous AI work and enforcing standards with ESLint. 🧐 The key is to treat AI as a backend collaborator, not just a simple code generator. Think of it as your super-smart coding buddy! 🧑‍💻
-
-6.  **Plugin Connects Web-Based AI to MCP Tools**
-    Wanna use MCP in web-based ChatGPT? Well, [this plugin (AI News)](https://m.okjike.com/originalPosts/6951f37f9dab01fe53225b38) has got your back! It supports connecting local or remote MCP servers to all sorts of web-based AIs. 💻 The tricky part now? Finding good, free data sources, like financial data. But hey, this hugely expands the capabilities of web-based AI! 🚀
-
-7.  **Genfocus: A Small Model for Adjusting Image Aperture**
-    Genfocus is a super fun, [dedicated small model (AI News)](https://x.com/Gorden_Sun/status/2005312741838655927) specifically designed to adjust image focus and aperture. It can transform photos to full focus or even shift the focal point! 📸 The results are absolutely stunning, meaning photography enthusiasts can use it to rescue those "failed" shots. Tech really makes post-processing feel like magic, doesn't it? ✨
-    <br/><video src="https://source.hubtoday.app/images/2025/12/news_01kdn9ypkzffkvm694sfwarj3q.mp4"></video><br/>
-
-8.  **Claude Code: Believe It or Not, It Started as a Side Project!**
-    The now-popular Claude Code was initially just founder Boris's [side project (AI News)](https://x.com/shao__meng/status/2005287703508869264)! The key tech behind it? A "Stop Hooks" mechanism that intercepts exit signals, allowing AI to self-reflect and loop. 🔄 This clever trick let it evolve from simple scripts into an agent capable of handling complex tasks. Seriously, innovations in AI applications often spark from these brilliant flashes of insight! ✨
-
-9.  **In the Future, Everyone Will Be an Architect**
-    Huang Yaoshi predicts a wild shift: he believes the traditional career path for programmers in the AI era [has broken (AI News)](https://m.okjike.com/originalPosts/69513ac9f00b06fdd8c8eee7). From now on, every engineer will need architect-level capabilities, or they'll be left behind! 🚫 Newcomers absolutely must figure out how to leverage AI to become architects of this new era. It's essentially evolution, folks—adapt or die! 🦖
-
-10. **ChatGPT Plus: The Ultimate Money-Saving Trick!**
-    Wanna snag a free month of ChatGPT Plus? A netizen just spilled a [magic trick (AI News)](https://x.com/Jimmy_JingLv/status/2005268750430548241)! Try canceling your subscription, and OpenAI, trying to keep you hooked, might just offer a free month's trial. 🎁 This "wool-pulling" hack totally catches you off guard! You can totally go ahead and try your luck (for reference only, though 😉).
+1.  **Claude Code Plugin Sparks Security Debate.** The Claude Code plugin is stirring up some serious security concerns! 🛡️ Developers are trying to block destructive commands, but the community is pointing out that regex filtering isn't exactly reliable. The consensus? Use containers or sandbox isolation. Folks, when AI writes code, we need to be wary of that ["database deletion" risk (AI News)](https://newshacker.me/story?id=46388882)! 😬
+2.  **AI Forces Programmers to Write More Rigorous Code.** Turns out, AI is actually pushing programmers to write super rigorous code! 🧐 To ensure agents don't spew out bugs, teams are now chasing 100% test coverage. Strict type checking is becoming the new trend. While it might be a bit tedious, it definitely cuts down on those pesky [model hallucinations (AI News)](https://newshacker.me/story?id=46424200). ✨
+3.  **Trying Out the New AI Programming Tool Z Code.** A blogger recently took the new AI programming tool Z Code for a spin! 💻 It integrates CLIs from both Claude and OpenAI, offering a unified IDE interaction interface. The API authorization process is super smooth, making it [very user-friendly (AI News)](https://x.com/shao__meng/status/2006005017938125226) even for non-developers. Give it a look! 👇<br/>![AI News: Z Code Integrated Development Environment Interface Screenshot](https://source.hubtoday.app/images/2025/12/news_01kdqxh8azf65r9f2xkkd5mxns.avif)<br/>
+4.  **Design Patterns for Building Intelligent Agents.** A fantastic resource is out there covering design patterns for building intelligent agents! 📚 It dives into the basics of prompt chains and routing, thoroughly explains multi-agent collaboration architectures, and includes practical insights like security protection. This [Chinese resource (AI News)](https://x.com/HiTw93/status/2005784521770418630) is absolutely worth a read! 👍
 
 ---
 
-## **AI Daily News Voice Edition**
+## **AI News Daily Voice Edition**
 
-| **Xiaoyuzhou FM** | **Douyin** |
+| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Little Tavern of Next Life](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Little Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |

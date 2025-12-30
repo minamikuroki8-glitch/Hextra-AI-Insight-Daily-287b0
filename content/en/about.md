@@ -6,21 +6,20 @@ sidebar:
 ---
 #### 何夕2077 / justlovemaki
 
-> A decade of code, fingertips grew cold, a restless spirit untold.
-> But then, the AI storm broke loose, I vowed to take on the challenge, no excuses!
+> Ten years of coding, fingertips chilling, but my inner frustrations? Still bubbling under. Suddenly, the AI revolution's storm is here, and I'm ready to dive in and make some waves!
 
-#### My Code Philosophy 💡
+#### 💡 My Code Philosophy
 
-> Technology for the people! 🛠️
+> Technology: Always serving the people! 🤝
 
-#### My Cool Projects ✨
+#### 🔥 My Masterpieces
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This AI image generation script is powered by Cloudflare Workers.
+    *   This is an AI image generation script, totally powered by Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This content aggregation and generation platform is driven by Cloudflare Workers. It daily curates the latest updates in the AI domain, including industry news, popular open-source projects, cutting-edge academic papers, and social media opinions from tech influencers.
-*   Wanna see more? My [GitHub](https://github.com/justlovemaki) has all the juicy project deets! 🤩
+    *   This content aggregation and generation platform is driven by Cloudflare Workers. It dishes out daily insights into the AI world, curating everything from industry news and popular open-source projects to cutting-edge academic papers and spicy tech influencer takes on social media. 🧠
+*   My [GitHub](https://github.com/justlovemaki) is packed with even more project details. Go check it out!
 
-#### Currently Exploring 🚀
+#### 🚀 What I'm Exploring Now
 
-I'm super interested in LLM applications and website SEO, and I'm actively diving into learning and practical work there.
+> I'm absolutely hooked on LLM applications and website SEO, and guess what? I'm diving deep into learning and getting hands-on with them right now! 🤓
